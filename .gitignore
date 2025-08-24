@@ -1,0 +1,65 @@
+# WordPress 插件相关
+*.log
+*.sql
+*.sqlite
+
+# 依赖目录
+/vendor/
+/node_modules/
+/dist/
+/build/
+
+# 环境文件
+.env
+.env.local
+.env.production
+.env.staging
+
+# IDE 和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*.cache
+
+# 上传文件
+uploads/
+wp-content/uploads/
+
+# 备份文件
+*.bak
+*.backup
+*.old
+
+# 编译文件
+*.min.js
+*.min.css
+*.map
+
+# 测试文件
+/tests/
+/phpunit.xml
+.phpunit.result.cache
+
+# 文档生成
+/docs/
+/coverage/
+
+# 包管理器锁文件（可选，根据团队策略决定）
+# composer.lock
+# package-lock.json
+# pnpm-lock.yaml

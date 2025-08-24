@@ -1,0 +1,47 @@
+.s3keeper-loading {
+    display: none;
+    margin-left: 10px;
+    font-style: italic;
+    color: #999;
+}
+
+#s3keeper_root input[type=color],
+#s3keeper_root input[type=date],
+#s3keeper_root input[type=datetime-local],
+#s3keeper_root input[type=datetime],
+#s3keeper_root input[type=email],
+#s3keeper_root input[type=month],
+#s3keeper_root input[type=number],
+#s3keeper_root input[type=password],
+#s3keeper_root input[type=search],
+#s3keeper_root input[type=tel],
+#s3keeper_root input[type=text],
+#s3keeper_root input[type=time],
+#s3keeper_root input[type=url],
+#s3keeper_root input[type=week],
+#s3keeper_root select,
+#s3keeper_root textarea {
+    border: none;
+    padding: 10px 8px;
+}
+
+#s3keeper_root input[type=checkbox]:focus,
+#s3keeper_root input[type=color]:focus,
+#s3keeper_root input[type=date]:focus,
+#s3keeper_root input[type=datetime-local]:focus,
+#s3keeper_root input[type=datetime]:focus,
+#s3keeper_root input[type=email]:focus,
+#s3keeper_root input[type=month]:focus,
+#s3keeper_root input[type=number]:focus,
+#s3keeper_root input[type=password]:focus,
+#s3keeper_root input[type=radio]:focus,
+#s3keeper_root input[type=search]:focus,
+#s3keeper_root input[type=tel]:focus,
+#s3keeper_root input[type=text]:focus,
+#s3keeper_root input[type=time]:focus,
+#s3keeper_root input[type=url]:focus,
+#s3keeper_root input[type=week]:focus,
+#s3keeper_root select:focus,
+#s3keeper_root textarea:focus {
+    box-shadow: none;
+}

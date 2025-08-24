@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Storage Location"
+msgstr "存储位置"
+
+#: s3-keeper.php:234
+msgid "Local"
+msgstr "本地"
+
+#: s3-keeper.php:235
+msgid "S3"
+msgstr "S3"
+
+#: s3-keeper.php:236
+msgid "Local + S3"
+msgstr "本地 + S3"
+
+#: s3-keeper.php:424
+msgid "All Storage"
+msgstr "所有存储"
+
+#: s3-keeper.php:427
+msgid "Both"
+msgstr "本地 + S3"
+
+#: s3-keeper.php:534
+msgid "Storage location updated for %d attachment."
+msgid_plural "Storage location updated for %d attachments."
+msgstr[0] "存储位置已更新 %d 个附件。"
+msgstr[1] "存储位置已更新 %d 个附件。"
+
+#: s3-keeper.php:541
+msgid "Failed to update storage location for %d attachment."
+msgid_plural "Failed to update storage location for %d attachments."
+msgstr[0] "未能更新 %d 个附件的存储位置。"
+msgstr[1] "未能更新 %d 个附件的存储位置。"
